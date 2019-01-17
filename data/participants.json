@@ -810,6 +810,17 @@
 			"referral"  : ""
 
 
+		},
+	    {
+			"name"      : "disha gupta",
+			"imageur1"  : "",
+			"about"	    : "",
+			"college"   : "IIIT Lucknow",
+			"github"    : "https://github.com/disha03",
+			"twitter"   : "",
+			"referral"  : ""
+
+
 		}
     ]
 }
