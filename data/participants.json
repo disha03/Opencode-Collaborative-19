@@ -1135,6 +1135,17 @@
 		   "website": "",
 		   "twitter" : "https://twitter.com/mivishvajeet",
 		   "referral" : ""
+		},
+		{
+		    "name" : "Disha Gupta",
+		   "imageurl" : "",
+		   "about" : "Software Developer",
+		   "college" : "IIITL",
+		   "facebook" : "",
+		   "github" : "https://github.com/disha03",
+		   "website": "",
+		   "twitter" : "",
+		   "referral" : "mail"
 		}
 	]
 }
